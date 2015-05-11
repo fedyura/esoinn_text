@@ -1,0 +1,6 @@
+build/
+build_worked/
+*.tmp
+*.swp
+*.swo
+src/mcl
